@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Django Framework
-- 🌱 I’m currently learning Ethical Hacking
-- 👯 I’m looking to collaborate on Python, Express Projects
+- 🔭 I’m currently working on Python AI
+- 🌱 I’m currently learning NextJS & TypeScript
+- 👯 I’m looking to collaborate on Python, Node Projects
 - 📫 How to reach me: https://www.linkedin.com/in/maliksidk19/
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: Eat - Sleep - Code - Repeat
