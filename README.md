@@ -58,7 +58,7 @@ I build production-ready SaaS solutions, open-source tools, and AI-powered exper
     <tr>
       <td style="border: none; width: 50%; text-align: center;">
         <a href="http://www.github.com/maliksidk19">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=maliksidk19&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;" />
+          <img src="https://streak-stats.demolab.com/?user=maliksidk19&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;" />
         </a>
       </td>
       <td style="border: none; width: 50%; text-align: center;">
@@ -75,5 +75,6 @@ I build production-ready SaaS solutions, open-source tools, and AI-powered exper
 ### ☕ Support My Work
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
+This helps me keep creating open-source tools and resources for the community.
 
 <a href="https://www.buymeacoffee.com/maliksidk19" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
